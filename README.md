@@ -18,10 +18,10 @@ You can simply browse throgh the notebooks, by clicking the __.html__ files or b
 
 ### How to browse:
 
-1. Download the file you want to explore:
-- [Data Gathering](https://github.com/hitesh-pathak/US-Housing-Factors/raw/main/data_gathering.html)
-- [EDA](https://github.com/hitesh-pathak/US-Housing-Factors/raw/main/EDA.html)
-- [Model Building](https://github.com/hitesh-pathak/US-Housing-Factors/raw/main/Model_building.html)
+1. Just Click the file you want to explore:
+- [Data Gathering](https://raw.githack.com/hitesh-pathak/US-Housing-Factors/main/data_gathering.html)
+- [EDA](https://raw.githack.com/hitesh-pathak/US-Housing-Factors/main/EDA.html)
+- [Model Building](https://raw.githack.com/hitesh-pathak/US-Housing-Factors/Model_building.html)
 
 2. Open with your favorite Browser.
 
