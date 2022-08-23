@@ -18,11 +18,15 @@ You can simply browse throgh the notebooks, by clicking the __.html__ files or b
 
 ### How to browse:
 
-1. Clone the repository or [download the zip file](https://github.com/hitesh-pathak/US-Housing-Factors/archive/refs/heads/main.zip).
-2. Extract the .zip  file to an empty directory.
-3. To browse you can simply open the __.html__ files. These are just the html version of .ipynb files.
+1. Download the file you want to explore:
+- [Data Gathering](https://github.com/hitesh-pathak/US-Housing-Factors/raw/main/data_gathering.html)
+- [EDA](https://github.com/hitesh-pathak/US-Housing-Factors/raw/main/EDA.html)
+- [Model Building](https://github.com/hitesh-pathak/US-Housing-Factors/raw/main/Model_building.html)
+
+2. Open with your favorite Browser.
 
 ### How to run:
 
-The first two steps the same, but in this case you want to run the __.ipynb__ files. To do that, fire up jupyter-notebook or jupyter-lab and open the .ipynb files :D
-
+1. Clone the repository or [download the zip file](https://github.com/hitesh-pathak/US-Housing-Factors/archive/refs/heads/main.zip).
+2. Extract the .zip  file to an empty directory.
+3. Use jupyter-notebook or jupyter-lab to open .ipynb files.
