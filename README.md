@@ -25,9 +25,6 @@ You can simply browse throgh the notebooks, by clicking the __.html__ files or b
 
 _Powererd by_ [raw.githack.com](raw.githack.com)
 
-
-2. Open with your favorite Browser.
-
 ### How to run:
 
 1. Clone the repository or [download the zip file](https://github.com/hitesh-pathak/US-Housing-Factors/archive/refs/heads/main.zip).
