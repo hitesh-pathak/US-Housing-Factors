@@ -16,10 +16,13 @@ S&P/Case-Shiller Home Price Indices track changes in single-family residential h
 
 You can simply browse throgh the notebooks, by clicking the __.html__ files or by clicking the ipynb ones (that will open them in github). Or you can run the notebooks on your system.
 
+### How to browse:
+
+1. Clone the repository or [download the zip file](https://github.com/hitesh-pathak/US-Housing-Factors/archive/refs/heads/main.zip).
+2. Extract the .zip  file to an empty directory.
+3. To browse you can simply open the __.html__ files. These are just the html version of .ipynb files.
+
 ### How to run:
 
-1. Clone the repository or download the zip files.
-2. Extract in an empty directory.
-3. Open the notebook that you want to run with ipyton interpretor.
-
+The first two steps the same, but in this case you want to run the __.ipynb__ files. To do that, fire up jupyter-notebook or jupyter-lab and open the .ipynb files :D
 
