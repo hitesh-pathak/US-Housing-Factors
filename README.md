@@ -13,3 +13,8 @@ I've organised the analysis is 3 different notebooks:
 
 S&P/Case-Shiller Home Price Indices track changes in single-family residential home prices across US. These indices are based on sales pair that have undergone at least two arm's length transactions, which is to say that the repeat-sales method is used. This is to eliminate the problem of accounting for price differences in homes with varying characteristics. Therefore, it can be said that these indices measure change in single household prices over time given a constant level of quality. For this reason I've not used any quality determining characteristics of households like No. of Bedrooms, Bathrooms, Furnishing etcetera. 
 
+### How to run:
+
+1. Clone the repository or download the zip files.
+2. Extract in an empty directory.
+3. Open the notebook that you want to run with ipyton interpretor.
