@@ -21,7 +21,7 @@ You can simply browse throgh the notebooks, by clicking the __.html__ files or b
 1. Just Click the file you want to explore:
 - [Data Gathering](https://raw.githack.com/hitesh-pathak/US-Housing-Factors/main/data_gathering.html)
 - [EDA](https://raw.githack.com/hitesh-pathak/US-Housing-Factors/main/EDA.html)
-- [Model Building](https://raw.githack.com/hitesh-pathak/US-Housing-Factors/Model_building.html)
+- [Model Building](https://raw.githack.com/hitesh-pathak/US-Housing-Factors/main/Model_building.html)
 
 _Powererd by_ [raw.githack.com](raw.githack.com)
 
