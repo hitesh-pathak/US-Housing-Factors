@@ -8,7 +8,7 @@ I've organised the analysis is 3 different notebooks:
 
 2. [EDA](https://github.com/hitesh-pathak/US-Housing-Factors/blob/main/EDA.ipynb): Exploratory data analysis, mainly plots expressing relationship between various features.
 
-3. [Model Building](https://github.com/hitesh-pathak/US-Housing-Factors/blob/main/Model_building.ipynb): Here, I've trained and evaluated Linear Regressor on data. This model is used to understand the affect of different factors on US Single Household Price. Here I've used the [S&P/Case-Shiller U.S. National Home Price Index](https://fred.stlouisfed.org/series/CSUSHPISA) as a proxy for Home prices.
+3. [Model Building](https://github.com/hitesh-pathak/US-Housing-Factors/blob/main/Model_building.ipynb): Here, I've trained and evaluated Linear Regressor on data and documented the __results__. This model is used to understand the affect of different factors on US Single Household Price. Here I've used the [S&P/Case-Shiller U.S. National Home Price Index](https://fred.stlouisfed.org/series/CSUSHPISA) as a proxy for Home prices.
 
 
 S&P/Case-Shiller Home Price Indices track changes in single-family residential home prices across US. These indices are based on sales pair that have undergone at least two arm's length transactions, which is to say that the repeat-sales method is used. This is to eliminate the problem of accounting for price differences in homes with varying characteristics. Therefore, it can be said that these indices measure change in single household prices over time given a constant level of quality. For this reason I've not used any quality determining characteristics of households like No. of Bedrooms, Bathrooms, Furnishing etcetera. 
